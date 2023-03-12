@@ -1,0 +1,17 @@
+{
+  "devDependencies": {
+    "lerna": "^6.5.1"
+  },
+  "name": "lerna",
+  "private": true,
+  "version": "1.0.0",
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "start": "lerna run start --scope={web-app,server-app}",
+    "test": "lerna run test --scope={web-app,server-app}",
+    "new-version": "lerna version --conventional-commits --yes",
+    "diff": "lerna diff"
+  }
+}
