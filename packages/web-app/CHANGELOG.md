@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.1.1](https://github.com/isurum-cv/lerna/compare/v1.1.0...v1.1.1) (2023-03-13)
+
+
+### Bug Fixes
+
+* bug solved ([488a46b](https://github.com/isurum-cv/lerna/commit/488a46b2820fe9b1099dd13b933059130f3cacd1))
+
+
+
+
+
 # [1.1.0](https://github.com/isurum-cv/lerna/compare/v1.0.2...v1.1.0) (2023-03-12)
 
 
